@@ -1,7 +1,7 @@
 baseURL: /
 theme: hugo-apero
 languageCode: en
-title: Matthew McClellan's Blog
+title: Matthew McClellan's personal website
 author: Matthew McClellan
 copyright: ''
 googleAnalytics: ''
@@ -33,10 +33,10 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: Matthew McClellan's personal website.
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/middle_north.jpg
   mainSections:
     - blog
     - project
@@ -46,7 +46,7 @@ params:
   navallcaps: yes
   orgLocal: Anywhere
   orgName: 
-  sharing_image: /img/papillons.jpg
+  sharing_image: /img/middle_north.jpg
   social:
   #  - icon: github
  #     icon_pack: fab
@@ -77,7 +77,7 @@ params:
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
-    repo_name: apreshill/apero
+    repo_name: mrmcclellan/blogdown
     theme: boxy-light
     use_utterances: yes
 taxonomies:
@@ -100,29 +100,33 @@ menu:
 #      weight: 3
   header:
     - name: About
-      title: About Blogophonic
+      title: About Matt
       url: /about/
       weight: 1
     - name: Blog
       title: Blog
       url: /blog/
       weight: 2
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
+    - name: Writing
+      title: Writing
+      url: /writing/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+#    - name: Projects
+#      title: Project Portfolio
+#      url: /project/
+#      weight: 3
+#    - name: Talks
+#      title: Talks
+#      url: /talk/
+#      weight: 4
+ #   - name: A collection
+ #     title: A collection
+#      url: /collection/
+#      weight: 5
+#    - name: Elements
+#      title: Element Page
+#      url: /elements/
+#      weight: 6
 privacy:
   disqus:
     disable: no

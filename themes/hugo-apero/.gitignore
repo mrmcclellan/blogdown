@@ -5,3 +5,6 @@
 .DS_Store
 exampleSite/public/
 exampleSite/resources/
+.DS_Store
+Thumbs.db
+.hugo_build.lock
