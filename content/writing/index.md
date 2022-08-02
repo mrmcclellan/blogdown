@@ -11,13 +11,16 @@ layout: standard
 show_title_as_headline: true
 ---
 
+
+
 Before my teaching career, I worked in a few jobs that allowed me to write for the web. All of these articles (and one project!) live in various corners of the internet, linked below.
 
 ### Digital history / data viz
 
-![Olaudah Equiano](/img/equiano.jpg){width=100px}
+<img src ="/img/equiano.jpg" alt="Olaudah Equiano" width ="200px"/>
 
-As a grad student I created a project applying various digital humanities tools and approaches to do a "distant reading" of slave narratives in UNC's "Documenting the American South" online library.
+<p>As a grad student I created a project applying various digital humanities tools and approaches to do a "distant reading" of slave narratives in UNC's "Documenting the American South" online library.</p>
+
 - [Topic Modeling Equiano and the Slave Narrative Genre](https://hist1993-15.omeka.fas.harvard.edu/exhibits/show/modeling-equiano/project-overview)
 
 ### Harvard Kennedy School

@@ -39,8 +39,7 @@ params:
   logo: /img/middle_north.jpg
   mainSections:
     - blog
-    - project
-    - talk
+    - writing
   math:
     renderer: katex
   navallcaps: yes
