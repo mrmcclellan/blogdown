@@ -72,7 +72,7 @@ params:
   socialInHeader: no
   textFontFamily: sans-serif
   theme: forest
-  twitter: apreshill
+#  twitter: apreshill
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
